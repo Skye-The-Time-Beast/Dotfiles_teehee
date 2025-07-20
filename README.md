@@ -1,7 +1,5 @@
---Changes--
-- Added Wofi config folder
-- Added WayBar config folder
-- Added Kitty config folder
-- Added Neofetch config folder
-- Added AnimatedWallpapers asset
-- Edited README.md
+--Notes--
+
+Heres a command that should automatically configure everything (hopefully, im still working on this)
+
+sudo pacman -S hyprland swww kitty waybar wofi sddm nerd-fonts dolphin firefox bluez bluez-utils pipewire pipewire-audio-client-libraries pavucontrol && git clone https://github.com/Skye-The-Time-Beast/Dotfiles_teehee.git && cd /Dotfile_teehee/ && cp -a /Dotfiles_teehe ~/.config && cp .zshrc ~/ && echo "please now reboot :3 ensure you check each config to then know your new hotkeys etc.."
