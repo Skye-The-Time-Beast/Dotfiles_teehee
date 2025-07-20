@@ -1,1 +1,7 @@
-
+--Changes--
+- Added Wofi config folder
+- Added WayBar config folder
+- Added Kitty config folder
+- Added Neofetch config folder
+- Added AnimatedWallpapers asset
+- Edited README.md
