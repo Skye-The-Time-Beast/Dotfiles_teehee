@@ -1,5 +1,7 @@
 --Notes--
 
+Ensure you have used iwctl for an internet connection!
+
 -new-
 
 Easier way to install: 
